@@ -1,6 +1,6 @@
 # apex-gang-of-four
 
-Implement the Gang of Four Design Patterns in Apex.
+Implement the Gang of Four Design Patterns in Apex. The Gang of Four design patterns are an important source for object-oriented design theory and practice.
 
 ---
 Credit to Derek Banas for his excellent video series on Design Patterns.
@@ -11,3 +11,4 @@ Credit to Derek Banas for his excellent video series on Design Patterns.
 ## Additional Sources
 
  * [Salesforce Apex Design Patterns](https://developer.salesforce.com/page/Apex_Design_Patterns)
+ * [Wikipedia Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
